@@ -1,0 +1,98 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Congo\Desktop\Igrica\CarRun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Congo\Desktop\Igrica\CarRun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Congo\Desktop\Igrica\CarRun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Congo\Desktop\Igrica\CarRun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Congo\Desktop\Igrica\CarRun_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Congo\Desktop\Igrica\CarRun_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.140 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Congo\Desktop\Igrica\CarRun_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Congo\Desktop\Igrica\CarRun_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.304219 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.402668 ms (FindLiveObjects: 0.063330 ms CreateObjectMapping: 0.031192 ms MarkObjects: 0.295857 ms  DeleteObjects: 0.010870 ms)
+
+Highscore must be instantiated using the ScriptableObject.CreateInstance method instead of new Highscore.
+ 
+(Filename:  Line: 503)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.785486 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 178.
+Total: 0.377619 ms (FindLiveObjects: 0.044898 ms CreateObjectMapping: 0.017014 ms MarkObjects: 0.280733 ms  DeleteObjects: 0.034028 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.758653 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 1.028410 ms (FindLiveObjects: 0.093105 ms CreateObjectMapping: 0.081762 ms MarkObjects: 0.819041 ms  DeleteObjects: 0.030247 ms)
+
+Highscore must be instantiated using the ScriptableObject.CreateInstance method instead of new Highscore.
+ 
+(Filename:  Line: 503)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.544086 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 178.
+Total: 1.090322 ms (FindLiveObjects: 0.073255 ms CreateObjectMapping: 0.078454 ms MarkObjects: 0.837473 ms  DeleteObjects: 0.097831 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.861684 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 1.010923 ms (FindLiveObjects: 0.076091 ms CreateObjectMapping: 0.078926 ms MarkObjects: 0.794938 ms  DeleteObjects: 0.058131 ms)
+
+Highscore must be instantiated using the ScriptableObject.CreateInstance method instead of new Highscore.
+ 
+(Filename:  Line: 503)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.368220 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 178.
+Total: 0.683401 ms (FindLiveObjects: 0.068056 ms CreateObjectMapping: 0.042535 ms MarkObjects: 0.510896 ms  DeleteObjects: 0.060022 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.365384 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.546342 ms (FindLiveObjects: 0.085543 ms CreateObjectMapping: 0.020795 ms MarkObjects: 0.415428 ms  DeleteObjects: 0.021267 ms)
+
+Highscore must be instantiated using the ScriptableObject.CreateInstance method instead of new Highscore.
+ 
+(Filename:  Line: 503)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.803918 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 178.
+Total: 0.347844 ms (FindLiveObjects: 0.041590 ms CreateObjectMapping: 0.017014 ms MarkObjects: 0.258520 ms  DeleteObjects: 0.029774 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.116789 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 168.
+Total: 0.360605 ms (FindLiveObjects: 0.043480 ms CreateObjectMapping: 0.016068 ms MarkObjects: 0.287349 ms  DeleteObjects: 0.011815 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.891824 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 163.
+Total: 0.356824 ms (FindLiveObjects: 0.053878 ms CreateObjectMapping: 0.016541 ms MarkObjects: 0.272698 ms  DeleteObjects: 0.011342 ms)
+
