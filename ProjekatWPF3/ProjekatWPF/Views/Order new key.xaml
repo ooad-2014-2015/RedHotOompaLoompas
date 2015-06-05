@@ -1,0 +1,27 @@
+﻿<Window x:Class="ProjekatWPF.Order_new_key"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Order_new_key" Height="226.866" Width="294.03">
+    <Grid Margin="0,0,36,-31">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="51*"/>
+            <ColumnDefinition Width="241*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="CBONK" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="78,29,0,0" Grid.Column="1" SelectionChanged="CBONK_SelectionChanged">
+            <TextBox Text="Series1 Coupe"/>
+            <TextBox Text="Series1 Cabrio"/>
+            <TextBox Text="Series2 ActiveTourer"/>
+            <TextBox Text="SeriesX X1"/>
+            <TextBox Text="SeriesX X3"/>
+            <TextBox Text="SeriesX X5"/>
+            <TextBox Text="SeriesX X6"/>
+            <TextBox Text="SeriesZ4 Roadster"/>
+            <TextBox Text="Series7 Limousine"/>
+        </ComboBox>
+        <Label Content="Model :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="19,29,0,0" Grid.Column="1"/>
+        <CheckBox x:Name="CBHomedelivery" Content="Home delivery" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="78,65,0,0" Grid.Column="1" Checked="CheckBox_Checked_1" GotFocus="CBHomedelivery_GotFocus" Click="CBHomedelivery_Click"/>
+        <Button Content="Submit" Command="{Binding Path=Upozorenje}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Grid.Column="1" Margin="121,146,0,0"/>
+        <Button Content="Cancel" Command="{Binding Path=Cancel}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="19,146,0,0" Grid.Column="1" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
